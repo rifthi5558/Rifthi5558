@@ -136,8 +136,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifthi5558&theme=dark" alt="rifthi5558" /></p>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
+<br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rifthi5558&show_icons=true&theme=dark&locale=en" alt="rifthi5558" /></p>
+
 <br><br><br><br><br><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifthi5558&show_icons=true&theme=dark&locale=en&layout=compact" alt="rifthi5558" /></p>
